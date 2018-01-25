@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-  hi all
+ ${greeting}
+ Hi frpm page
 </body>
 </html>
